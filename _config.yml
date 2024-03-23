@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ru-RU"
 title                    : "GleamNet"
 title_separator          : "-"
 name                     : &name "Your Name"
